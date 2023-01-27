@@ -70,10 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ---
-
-## 開發紀錄
-### Add Bootstrap
-1. Get links for remote Bootstrap files
-2. Add links to `index.html`
-3. Apply Bootstrap CSS styles in component HTML template
-4. Apply Bootstrap CSS styles in component HTML table
